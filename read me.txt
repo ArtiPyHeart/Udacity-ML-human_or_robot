@@ -1,0 +1,28 @@
+项目文件说明：
+plot_0528_beta.ipynb——原始数据与预测结果可视化
+pre_0524_beta.ipynb——数据清洗与挖掘
+完整运行时间：约4小时
+stat_0602_alpha.ipynb——模型调参
+完整运行时间：约0.5小时
+stat_0605_overfitting.ipynb——lightGBM模型过拟合案例
+
+文件夹说明：
+data——原始数据
+result——预测结果
+stat——数据挖掘结果
+报告要求——Udacity写作框架
+参考文献——参考文献与相关图片
+
+软件版本：
+python 3.6.1
+numpy 1.12.1
+pandas 0.20.1
+matplotlib 2.0.2
+seaborn 0.7.1
+scikit-learn 0.18.1
+lightgbm 0.2
+
+运行环境：
+i7-4700MQ,16G RAM
+
+数据获取：https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data
